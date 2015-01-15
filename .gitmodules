@@ -1,0 +1,6 @@
+[submodule "3th-party/AFNetworking"]
+	path = 3th-party/AFNetworking
+	url = git@github.com:AFNetworking/AFNetworking.git
+[submodule "3th-party/LineGraphView"]
+	path = 3th-party/LineGraphView
+	url = git@github.com:z8927623/LineGraphView.git
